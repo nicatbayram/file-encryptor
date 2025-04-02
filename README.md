@@ -113,3 +113,8 @@ Only files encrypted with this application (with the SECENC header) can be decry
 
 # Disclaimer
  ## This tool is provided "as is" without any warranty. The authors are not responsible for any data loss or damage resulting from its use.
+
+## ScreenShots
+
+<img width="400" alt="pg11" src="https://github.com/user-attachments/assets/17784e99-3b6c-49c4-ab32-afb469c77b0b" />
+<img width="400" alt="pg11" src="https://github.com/user-attachments/assets/345822f4-a579-456a-8bbb-08abadac70c0" />
